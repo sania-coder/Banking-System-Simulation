@@ -1,0 +1,9 @@
+# requirements.txt for Banking-System-Simulation
+# This project uses only Python standard library modules:
+#  - sqlite3 (database)
+#  - tkinter (GUI)
+#  - datetime
+# No third-party packages are required.
+
+# Recommended Python version:
+python>=3.10
